@@ -1,0 +1,4 @@
+google-genai
+fal-client
+python-dotenv
+streamlit
